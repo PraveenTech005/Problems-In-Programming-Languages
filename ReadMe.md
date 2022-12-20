@@ -4,7 +4,6 @@
 
   - C
   - C++
-  - C#
   - JAVA
   - PYTHON
   - JAVASCRIPT
