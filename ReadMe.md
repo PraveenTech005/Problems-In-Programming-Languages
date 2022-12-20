@@ -1,5 +1,5 @@
 - Learn Programming Languages With Me.
-- A Example For Each Programming Languages Listed Below Is Posted Daily On That Particular Repository.
+- An Example For Each Programming Language Listed Below Is Posted Daily On That Particular Repository.
 - Programming Languages Are :-
 
   - C
