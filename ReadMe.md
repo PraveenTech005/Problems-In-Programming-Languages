@@ -8,7 +8,7 @@
   - PYTHON
   - JAVASCRIPT
 
-- Other Languages Added Soon And Also You Learn With Me.
-- If Any Mistakes I Did Please Forgive Me And Contact Me.
+- Other Languages Added Soon As Possible And You Can Also Learn With Me.
+- If Any Mistakes I Did Please Forgive And Contact Me At Telegram.
 
 - Watch This https://github.com/PraveenTech005/PraveenTech005
