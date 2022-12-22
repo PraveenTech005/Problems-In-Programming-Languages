@@ -1,5 +1,5 @@
-# Learn Programming Languages With Me.
-- An Example For Each Programming Language Listed Below Is Posted Daily On That Particular Repository.
+# Problems-In-Programming-Languages.
+- A Common Problems(Examples) Are Solved Daily In Each Programming Languages Listed Below
 - Programming Languages Are :-
 
   - C
@@ -11,4 +11,4 @@
 - Other Languages Added Soon As Possible And You Can Also Learn With Me.
 - If Any Mistakes I Did Please Forgive And Contact Me At Telegram.
 
-- Watch This https://github.com/PraveenTech005/PraveenTech005
+## Checkout This https://github.com/PraveenTech005/PraveenTech005
