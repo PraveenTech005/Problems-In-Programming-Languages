@@ -3,10 +3,8 @@
 - Programming Languages Are :-
 
   - C
-  - C++
   - JAVA
   - PYTHON
-  - JAVASCRIPT
 
 - Other Languages Added Soon As Possible And You Can Also Learn With Me.
 - If Any Mistakes I Did Please Forgive And Contact Me At Telegram.
