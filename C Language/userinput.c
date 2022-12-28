@@ -10,5 +10,5 @@ int main()
     printf("Enter Your Full Name : \n");                          //It Reads Until You Press Enter
     fflush(stdin);                                                //If You Type - For Ex.("Praveen Tech")
     gets(Uname);                                                  //It Takes "Praveen Tech" (Full Text) As Input
-    printf("Hello, %s. Welcome To C Language Problems\n",Uname);  //Here fflush() For Clear Garbage(random) Values
+    printf("Hello, %s. Welcome To This C Language Problems Solving Repository\n",Uname);  //Here fflush() For Clear Garbage(random) Values
 }                                                                 //gets() For Read Input
