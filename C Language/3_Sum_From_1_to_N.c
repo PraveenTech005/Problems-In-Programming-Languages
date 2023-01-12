@@ -8,5 +8,4 @@ int main()
     for(i=0;i<=n;i++)
         sum += i;
     printf("\nSum From 1 To N : %d",sum);
-    
 }
