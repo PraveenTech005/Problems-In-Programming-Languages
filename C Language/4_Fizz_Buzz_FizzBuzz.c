@@ -14,5 +14,7 @@ int main()
             printf("\n%d - Buzz",i);
         else if(i%3==0)
             printf("\n%d - Fizz",i);
+        else
+            printf("\n%d",i);
     }
 }
